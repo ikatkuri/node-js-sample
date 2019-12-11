@@ -26,10 +26,11 @@
     "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
   ],
   "license": "MIT"
-}
+},
 
 {
    "publishConfig": {
     "registry": "http://192.168.227.135:8081/repository/npm-hosted/"
   }
+}
 }
